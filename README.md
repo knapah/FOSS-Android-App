@@ -1,12 +1,13 @@
 ## App Store
 
-* [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) **[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**
-* [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) **[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) **[[F-Droid](https://f-droid.org/app/com.aurora.store)]**
+* [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) **[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**
+* [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) **[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**
 
 
 ## Backup
 
+* [**DataBackup**](https://github.com/XayahSuSuSu/Android-DataBackup/releases) **[[F-Droid](https://f-droid.org/zh_Hans/packages/com.xayah.databackup.foss/)]**
 * [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) **[[F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)]**
 
 
@@ -18,6 +19,7 @@
 ## Calculator
 
 * [**Calculator-inator**](https://github.com/prathameshmm02/Calculator-inator) **[[F-Droid](https://f-droid.org/packages/com.inator.calculator/)]**
+* [**OpenCalc**](https://github.com/Darkempire78/OpenCalc/releases) **[[F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator)]**
 
 
 ## Calendar
@@ -32,42 +34,48 @@
 
 ## Clock
 
-* [**Clock**](https://github.com/qw123wh/new-clock)
+* [**Clock**](https://github.com/BlackyHawky/Clock/releases/) **[[F-Droid](https://f-droid.org/packages/com.best.deskclock/)]**
+* [**Fossify Clock**](https://github.com/FossifyOrg/Clock/releases) **[[F-Droid](https://f-droid.org/packages/org.fossify.clock/)]**
 
 
 ## Community Clients
 
 * [**cutthecord**](https://gitdab.com/distok/cutthecord)
-* [**Twidere X**](https://github.com/TwidereProject/TwidereX-Android) **[[F-Droid](https://www.f-droid.org/app/com.twidere.twiderex)]**
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) **[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**
+* [**Twidere X**](https://github.com/TwidereProject/TwidereX-Android) **[[F-Droid](https://www.f-droid.org/app/com.twidere.twiderex)]**
 * [**Twire**](https://github.com/twireapp/Twire) **[[F-Droid](https://f-droid.org/packages/com.perflyst.twire/)]**
 
 
 ## Contacts
 
-* [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) **[[F-Droid](https://f-droid.org/app/com.simplemobiletools.contacts.pro)]**
+* [**Fossify Contacts**](https://github.com/FossifyOrg/Contacts/releases) **[[F-Droid](https://f-droid.org/packages/org.fossify.contacts/)]**
+* [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) **[[F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)]**
 
 
 ## Dialer
 
+* [**Fossify Phone**](https://github.com/FossifyOrg/Phone/releases) **[[F-Droid](https://f-droid.org/packages/org.fossify.phone/)]**
 * [**Koler**](https://github.com/Chooloo/koler) **[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**
 
 
 ## File Synchronization
 
-* [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) **[[F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)]**
 * [**Snapdrop**](https://github.com/fm-sys/snapdrop-android) **[[F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)]**
+* [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) **[[F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)]**
 
 
 ## Gallery
 
+* [**Fossify Gallery**](https://github.com/FossifyOrg/Gallery/releases) **[[F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)]**
+* [**Gallery**](https://github.com/IacobIonut01/Gallery/releases) **[[F-Droid](https://f-droid.org/packages/com.dot.gallery)]**
 * [**QuickPic Gallery Mod**](https://github.com/WSTxda/QP-Gallery-Releases)
 
 
 ## Keyboard
 
-* [**OpenBoard**](https://github.com/dslul/openboard) **[[F-Droid](https://f-droid.org/app/org.dslul.openboard.inputmethod.latin)]**
 * [**FlorisBoard**](https://github.com/florisboard/florisboard) **[[F-Droid](https://f-droid.org/app/dev.patrickgold.florisboard)]**
+* [**OpenBoard**](https://github.com/dslul/openboard) **[[F-Droid](https://f-droid.org/app/org.dslul.openboard.inputmethod.latin)]**
+* [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard/releases) **[[F-Droid](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod/)]**
 
 ## Launcher
 
@@ -82,27 +90,30 @@
 
 ## Manga
 
+* [**Mihon**](https://github.com/mihonapp/mihon/releases)
 * [**TachiyomiSY**](https://github.com/jobobby04/TachiyomiSY)
+  * [**Extension**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo)
 
 
 ## Maps & Navigation
 
-* [**OsmAnd~**](http://osmand.net/) **[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) **[[F-Droid](https://f-droid.org/app/app.organicmaps)]**
+* [**OsmAnd~**](http://osmand.net/) **[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**
 
 
 ## Messaging
 
 * [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**
-    * [**Nekogram X**](https://github.com/NekoX-Dev/NekoX) **[[F-Droid](https://f-droid.org/app/nekox.messenger)]**
     * [**Forkgram**](https://github.com/Forkgram/TelegramAndroid) **[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**
+    * [**Nekogram**](https://github.com/Nekogram/Nekogram/releases)
+    * [**NekoX**](https://github.com/NekoX-Dev/NekoX/releases) **[[F-Droid](https://f-droid.org/packages/nekox.messenger)]**
 
 
 ## Music & Audio Player
 
-* [**Metro**](https://github.com/MuntashirAkon/Metro) **[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) **[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**
 * [**BlackHole**](https://github.com/Sangwan5688/BlackHole) **[[F-Droid](https://f-droid.org/app/com.shadow.blackhole)]**
+* [**Metro**](https://github.com/MuntashirAkon/Metro) **[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**
 
 
 ## Notes
@@ -112,8 +123,8 @@
 
 ## Password & Authentication
 
-* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) **[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**
 * [**Aegis**](https://github.com/beemdevelopment/Aegis) **[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**
+* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) **[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**
 
 
 ## RSS Readers
@@ -124,6 +135,7 @@
 ## SMS
 
 * [**QKSMS**](https://github.com/moezbhatti/qksms) **[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**
+    * [**QUIK**](https://github.com/octoshrimpy/quik) **[[F-Droid](https://f-droid.org/repository/browse/?fdid=dev.octoshrimpy.quik)]**
 
 
 ## Sports
@@ -140,9 +152,9 @@
 
 ## VPN
 
-* [**WireGuard**](https://git.zx2c4.com/wireguard-android) **[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**
-* [**ProtonVPN**](https://github.com/ProtonVPN/android-app) **[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**
 * [**Calyx VPN**](https://gitlab.com/CalyxOS/bitmask_android) **[[F-Droid](https://f-droid.org/app/org.calyxinstitute.vpn)]**
+* [**ProtonVPN**](https://github.com/ProtonVPN/android-app) **[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**
+* [**WireGuard**](https://git.zx2c4.com/wireguard-android) **[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**
 
 
 ### • Weather
@@ -152,6 +164,6 @@
 
 ## YouTube Frontends
 
-* [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) **[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**
-    * [**NewPipe x SponsorBlock x Return YouTube Dislike**](https://github.com/polymorphicshade/NewPipe) **[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)]**
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) **[[F-Droid](https://f-droid.org/app/com.github.libretube)]**
+* [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) **[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**
+    * [**Tubular**](https://github.com/polymorphicshade/Tubular/releases)
